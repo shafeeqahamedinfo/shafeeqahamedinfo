@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://github.com/shafeeqahamedinfo/shafeeqahamedinfo/raw/main/profile.jpeg" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/shafeeqahamedinfo/shafeeqahamedinfo/raw/main/profile.jpg" width="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">
@@ -16,13 +16,14 @@
 
 ### 💫 About Me
 - 🧑‍💻 I'm a passionate **Front-End Developer**
-- 🌱 I’m currently learning **React** and **JavaScript frameworks**
+- 🌱 I’m currently learning **React**, **Tailwind CSS**, and **JavaScript**
 - ⚡ Love clean UI and smooth UX
-- 📫 Reach me: `m.shaafeeqahamed2004gmail.com`
+- 📫 Reach me: `your.email@example.com`
 
 ---
 
 ### 🛠️ Tools & Tech
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,5 +35,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M.SHAFEEQAHAMED&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&show_icons=true&theme=tokyonight" width="450" />
 </p>
