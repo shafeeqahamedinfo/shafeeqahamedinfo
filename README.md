@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=00FFAA&center=true&vCenter=true&width=450&lines=Web+Developer;Tech+Enthusiast;Python+%7C+JS+%7C+SQL+Coder)
 
+![Profile Banner](https://i.imgur.com/YOUR_IMAGE_ID.gif)
+
 **BE CSE | Web Developer | Tech Enthusiast**
 
 ---
@@ -61,5 +63,10 @@ Click any project name to open:
 ---
 
 ![Shafeeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shafeeqahamedinfo&layout=compact&theme=tokyonight)
 
-> ✨ This profile is styled with dark tones and animated badges to enhance visual appeal.
+---
+
+![Snake animation](https://github.com/shafeeqahamedinfo/shafeeqahamedinfo/blob/output/github-contribution-grid-snake.svg)
+
+> ✨ This profile is styled with dark tones and animated banners, typing effects, and contribution visuals for an interactive experience.
