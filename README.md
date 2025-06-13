@@ -19,12 +19,6 @@ MRK Polytechnic College *(2020–2023)*
 Earned my diploma in Mechanical Engineering, building a strong foundation in technical problem-solving and analytical thinking.
 
 ---
-
-## 📫 Contact Information
-- **Email:** m.shafeeqahamed2004@gmail.com
-- **Phone:** +91 8489481039
-- **Location:** Tamil Nadu, India
-
 ---
 
 ## 🔗 Follow Me
