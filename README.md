@@ -92,7 +92,10 @@ Click any animated project name to open:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shafeeqahamedinfo&layout=compact&theme=tokyonight)
 
 ---
+## 📫 Contact Information
+- **Email:** m.shafeeqahamed2004@gmail.com
+- **Phone:** +91 8489481039
+- **Location:** Tamil Nadu, India
 
-![Snake animation](https://github.com/shafeeqahamedinfo/shafeeqahamedinfo/blob/output/github-contribution-grid-snake.svg)
 
 > ✨ This profile is styled with dark tones and animated banners, typing effects, and contribution visuals for an interactive experience.
