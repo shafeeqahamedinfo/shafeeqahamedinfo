@@ -45,20 +45,46 @@ Earned my diploma in Mechanical Engineering, building a strong foundation in tec
 ---
 
 ## 🚀 Projects
-Click any project name to open:
+Click any animated project name to open:
 
-1. [Loan Calculator](https://recyclezone.neocities.org/Loan%20calculator/)
-2. [Box](https://recyclezone.neocities.org/BOX/)
-3. [Calculator](https://recyclezone.neocities.org/Calculator/inex)
-4. [Drawing App](https://recyclezone.neocities.org/Drawing%20App/)
-5. [Square Game](https://recyclezone.neocities.org/GAMER%2001/)
-6. [Rock Paper Scissors](https://recyclezone.neocities.org/GAMER%2004/Rock%20Paper%20Scissors%20Game)
-7. [Tic Tac Toe](https://recyclezone.neocities.org/GAMER%2005/Tic%20Tac%20Toe.HTML)
-8. [Pairs Game](https://recyclezone.neocities.org/GAMER%2006/INDEX)
-9. [LoveProject-master](https://recyclezone.neocities.org/LoveProject-master/)
-10. [Car Game](https://recyclezone.neocities.org/car/)
-11. [Shoe Shop](https://recyclezone.neocities.org/project%204%20ok/MY%20SHOE.HTML)
-12. [New Year Wish](https://recyclezone.neocities.org/project%206%20ok/)
+<p align="center">
+  <a href="https://recyclezone.neocities.org/Loan%20calculator/" target="_blank">
+    <img src="https://img.shields.io/badge/-Loan%20Calculator-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/BOX/" target="_blank">
+    <img src="https://img.shields.io/badge/-Box-111111?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/Calculator/inex" target="_blank">
+    <img src="https://img.shields.io/badge/-Calculator-222222?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/Drawing%20App/" target="_blank">
+    <img src="https://img.shields.io/badge/-Drawing%20App-333333?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/GAMER%2001/" target="_blank">
+    <img src="https://img.shields.io/badge/-Square%20Game-444444?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/GAMER%2004/Rock%20Paper%20Scissors%20Game" target="_blank">
+    <img src="https://img.shields.io/badge/-Rock%20Paper%20Scissors-555555?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/GAMER%2005/Tic%20Tac%20Toe.HTML" target="_blank">
+    <img src="https://img.shields.io/badge/-Tic%20Tac%20Toe-666666?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/GAMER%2006/INDEX" target="_blank">
+    <img src="https://img.shields.io/badge/-Pairs%20Game-777777?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/LoveProject-master/" target="_blank">
+    <img src="https://img.shields.io/badge/-LoveProject-888888?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/car/" target="_blank">
+    <img src="https://img.shields.io/badge/-Car%20Game-999999?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/project%204%20ok/MY%20SHOE.HTML" target="_blank">
+    <img src="https://img.shields.io/badge/-Shoe%20Shop-aaaaaa?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://recyclezone.neocities.org/project%206%20ok/" target="_blank">
+    <img src="https://img.shields.io/badge/-New%20Year%20Wish-bbbbbb?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
