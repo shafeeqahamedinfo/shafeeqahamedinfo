@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/raw/main/profile.jpg" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/M.SHAFEEQAHAMED/M.SHAFEEQAHAMED/raw/main/profile.jpeg" width="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">
