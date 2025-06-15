@@ -142,11 +142,20 @@
 - **Email:** m.shafeeqahamed2004@gmail.com
 - **Phone:** +91 8489481039
 - **Location:** Tamil Nadu, India
+  
+---
+
+![Shafeeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shafeeqahamedinfo&layout=compact&theme=tokyonight)
+
+---
+
+![Snake animation](https://github.com/shafeeqahamedinfo/shafeeqahamedinfo/blob/output/github-contribution-grid-snake.svg)
+
+> ✨ This profile is styled with dark tones and animated banners, typing effects, and contribution visuals for an interactive experience.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shafeeqahamedinfo&style=flat-square&color=yellow" alt="Profile views"/>
 </p>
-![Shafeeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shafeeqahamedinfo&layout=compact&theme=tokyonight)
 
 ---
