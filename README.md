@@ -40,22 +40,22 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀✨ My Projects
 
-| # | Project                | Link |
-|--|------------------------|------|
-| 1 | Loan Calculator       | [🔗 Open](https://recyclezone.neocities.org/Loan%20calculator/) |
-| 2 | Box                   | [🔗 Open](https://recyclezone.neocities.org/BOX/) |
-| 3 | Calculator            | [🔗 Open](https://recyclezone.neocities.org/Calculator/inex) |
-| 4 | Drawing App           | [🔗 Open](https://recyclezone.neocities.org/Drawing%20App/) |
-| 5 | Square Game           | [🔗 Open](https://recyclezone.neocities.org/GAMER%2001/) |
-| 6 | Rock Paper Scissors   | [🔗 Open](https://recyclezone.neocities.org/GAMER%2004/Rock%20Paper%20Scissors%20Game) |
-| 7 | Tic Tac Toe           | [🔗 Open](https://recyclezone.neocities.org/GAMER%2005/Tic%20Tac%20Toe.HTML) |
-| 8 | Pairs Game            | [🔗 Open](https://recyclezone.neocities.org/GAMER%2006/INDEX) |
-| 9 | Love Project          | [🔗 Open](https://recyclezone.neocities.org/LoveProject-master/) |
-| 10 | Car Game             | [🔗 Open](https://recyclezone.neocities.org/car/) |
-| 11 | Shoe Shop            | [🔗 Open](https://recyclezone.neocities.org/project%204%20ok/MY%20SHOE.HTML) |
-| 12 | New Year Wish        | [🔗 Open](https://recyclezone.neocities.org/project%206%20ok/) |
+| 🔢 | 💡 Project Name | 🔗 Live Demo |
+|----|----------------|-------------|
+| 🌟 1 | 🧮 **Loan Calculator** | [Click to Open](https://recyclezone.neocities.org/Loan%20calculator/) |
+| 📦 2 | 📦 **Box UI** | [Click to Open](https://recyclezone.neocities.org/BOX/) |
+| 🧠 3 | ➗ **Smart Calculator** | [Click to Open](https://recyclezone.neocities.org/Calculator/inex) |
+| 🎨 4 | ✏️ **Drawing App** | [Click to Open](https://recyclezone.neocities.org/Drawing%20App/) |
+| 🔳 5 | ⏹️ **Square Game** | [Click to Open](https://recyclezone.neocities.org/GAMER%2001/) |
+| ✊✋✌️ 6 | 🎮 **Rock Paper Scissors** | [Click to Open](https://recyclezone.neocities.org/GAMER%2004/Rock%20Paper%20Scissors%20Game) |
+| ❌⭕ 7 | 🎯 **Tic Tac Toe** | [Click to Open](https://recyclezone.neocities.org/GAMER%2005/Tic%20Tac%20Toe.HTML) |
+| 🎴 8 | 💠 **Pairs Game** | [Click to Open](https://recyclezone.neocities.org/GAMER%2006/INDEX) |
+| 💘 9 | 💌 **Love Project** | [Click to Open](https://recyclezone.neocities.org/LoveProject-master/) |
+| 🚗 10 | 🏎️ **Car Game** | [Click to Open](https://recyclezone.neocities.org/car/) |
+| 👟 11 | 🛒 **Shoe Shop** | [Click to Open](https://recyclezone.neocities.org/project%204%20ok/MY%20SHOE.HTML) |
+| 🎉 12 | 🎆 **New Year Wish** | [Click to Open](https://recyclezone.neocities.org/project%206%20ok/) |
 
 ---
 
