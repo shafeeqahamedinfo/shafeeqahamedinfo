@@ -146,3 +146,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shafeeqahamedinfo&style=flat-square&color=yellow" alt="Profile views"/>
 </p>
+![Shafeeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shafeeqahamedinfo&layout=compact&theme=tokyonight)
+
+---
