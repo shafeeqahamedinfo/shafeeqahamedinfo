@@ -20,7 +20,7 @@
 
 ---
 
-## 🎓 Education Timeline
+## 🎓 Education 
 
 - **B.E. Computer Science and Engineering**  
   📍 Annamalai University (2024–2027)
