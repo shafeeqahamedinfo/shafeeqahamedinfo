@@ -58,6 +58,25 @@
 | 🎉 12 | 🎆 **New Year Wish** | [Click to Open](https://recyclezone.neocities.org/project%206%20ok/) |
 
 ---
+## 🚀✨ My Projects (Interactive Style)
+
+> 🔄 Hover your mouse to explore projects (GIF simulated style)
+
+| 🌟 Project | 🔗 Link |
+|-----------|--------|
+| 🧮 **[Loan Calculator](https://recyclezone.neocities.org/Loan%20calculator/)** `💸 Fast & accurate` |
+| 📦 **[Box UI Design](https://recyclezone.neocities.org/BOX/)** `🧊 Animated layout` |
+| 🧠 **[Smart Calculator](https://recyclezone.neocities.org/Calculator/inex)** `🧮 Real-time results` |
+| ✏️ **[Drawing App](https://recyclezone.neocities.org/Drawing%20App/)** `🎨 Creative tool` |
+| ⏹️ **[Square Game](https://recyclezone.neocities.org/GAMER%2001/)** `🕹️ Fun moves` |
+| ✊✋✌️ **[Rock Paper Scissors](https://recyclezone.neocities.org/GAMER%2004/Rock%20Paper%20Scissors%20Game)** `🤖 VS Human` |
+| ❌⭕ **[Tic Tac Toe](https://recyclezone.neocities.org/GAMER%2005/Tic%20Tac%20Toe.HTML)** `🎯 Classic` |
+| 💠 **[Pairs Memory Game](https://recyclezone.neocities.org/GAMER%2006/INDEX)** `🧠 Brain workout` |
+| 💌 **[Love Project](https://recyclezone.neocities.org/LoveProject-master/)** `❤️ Sweet design` |
+| 🚗 **[Car Game](https://recyclezone.neocities.org/car/)** `🏎️ Speed test` |
+| 🛍️ **[Shoe Shop](https://recyclezone.neocities.org/project%204%20ok/MY%20SHOE.HTML)** `🥿 Product UI` |
+| 🎆 **[New Year Wish](https://recyclezone.neocities.org/project%206%20ok/)** `🎉 Special event` |
+
 
 ## 🌐 Follow Me
 
