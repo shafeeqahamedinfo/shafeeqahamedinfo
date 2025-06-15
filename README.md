@@ -3,8 +3,11 @@
     <td>
       <h1>Hi 👋, I'm <span style="color:#FFD700">SHAFEEQAHAMED M</span></h1>
       <p>
-        🎓 CSE Student at Annamalai University (2024–2027) <br>
+        🎓 Diploma in Mech<br>
+        📚 Pursuing B.E. in CSE | AU<br>
+        🌐 Aspiring Web Developer | Fresher <br>
         💻 Passionate Web Developer (HTML, CSS, JS, SQL, Python) <br>
+        💡 Passionate about tech, coding, and learning new skills<br>
         🌱 Currently learning full-stack development <br>
         📫 Reach me at: m.shafeeqahamed2004@gmail.com
       </p>
