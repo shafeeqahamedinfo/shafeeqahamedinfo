@@ -1,24 +1,29 @@
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/37533779722361.5c6c4872b421e.gif" alt="Animated Header" width="100%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm <span style="color:#FFD700">SHAFEEQAHAMED M</span></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFD700&size=22&center=true&vCenter=true&width=600&lines=Web+Developer;CSE+Undergraduate;Open+Source+Enthusiast" alt="Typing Animation" />
-</p>
+<table>
+  <tr>
+    <td>
+      <h1>Hi 👋, I'm <span style="color:#FFD700">SHAFEEQAHAMED M</span></h1>
+      <p>
+        🎓 CSE Student at Annamalai University (2024–2027) <br>
+        💻 Passionate Web Developer (HTML, CSS, JS, SQL, Python) <br>
+        🌱 Currently learning full-stack development <br>
+        📫 Reach me at: m.shafeeqahamed2004@gmail.com
+      </p>
+    </td>
+    <td>
+      <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="250" alt="developer animation">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎓 Education Timeline
 
 - **B.E. Computer Science and Engineering**  
-  📍 Annamalai University (2024–2027)  
-  Currently pursuing, focused on web technologies and software development.
+  📍 Annamalai University (2024–2027)
 
 - **Diploma in Mechanical Engineering**  
-  📍 MRK Polytechnic College (2020–2023)  
-  Built a strong foundation in technical problem-solving and analytical thinking.
+  📍 MRK Polytechnic College (2020–2023)
 
 ---
 
@@ -51,14 +56,6 @@
 | 10 | Car Game             | [🔗 Open](https://recyclezone.neocities.org/car/) |
 | 11 | Shoe Shop            | [🔗 Open](https://recyclezone.neocities.org/project%204%20ok/MY%20SHOE.HTML) |
 | 12 | New Year Wish        | [🔗 Open](https://recyclezone.neocities.org/project%206%20ok/) |
-
----
-
-## 📬 Contact Me
-
-- 📧 Email: **m.shafeeqahamed2004@gmail.com**  
-- 📞 Phone: **+91 8489481039**  
-- 📍 Location: *Tamil Nadu, India*
 
 ---
 
