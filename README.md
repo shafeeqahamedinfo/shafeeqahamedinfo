@@ -14,23 +14,30 @@
       </p>
     </td>
     <td>
-      <img src="https://ik.imagekit.io/z5gkmj8bb/profile3.png?updatedAt=1750518528671" width="250" alt="developer animation">
+      <img src="https://ik.imagekit.io/z5gkmj8bb/profile3.png?updatedAt=1750518528671" width="350" alt="developer animation">
     </td>
   </tr>
 </table>
 
 ---
-
-## 🎓 Education 
-
-- **B.E. Computer Science and Engineering**  
-  📍 Annamalai University (2024–2027)
-
-- **Diploma in Mechanical Engineering**  
+<table>
+  <tr>
+    <td>
+    <h2>🎓 Education </span></h2>
+   <p>
+   B.E. Computer Science and Engineering <br>
+  📍 Annamalai University (2024–2027)<br>
+   <br>
+   Diploma in Mechanical Engineering <br>
   📍 MRK Polytechnic College (2020–2023)
+   </p>
 
-   <img src="https://ik.imagekit.io/z5gkmj8bb/profile1.png?updatedAt=1750518703858" width="250" alt="developer animation">
-    
+   </td>
+    <td>
+      <img src="https://ik.imagekit.io/z5gkmj8bb/profile1.png?updatedAt=1750518703858" width="650" alt="developer animation">
+    </td>
+  </tr>
+</table>
 
 ---
 
