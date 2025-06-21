@@ -29,6 +29,9 @@
 - **Diploma in Mechanical Engineering**  
   📍 MRK Polytechnic College (2020–2023)
 
+   <img src="https://ik.imagekit.io/z5gkmj8bb/profile1.png?updatedAt=1750518703858" width="250" alt="developer animation">
+    
+
 ---
 
 ## 💻 Skills
