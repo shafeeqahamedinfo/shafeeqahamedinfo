@@ -51,6 +51,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </p>
+
 ---
 
 ### 🛠️ IDE and Tools I Use
@@ -110,7 +111,7 @@ Click any animated project name to open:
 </p>
 ---
 
-📌 **Pro Tip**: You can add GIF thumbnails by uploading them to an external host (like Imgur) and embedding using `![Alt](link.gif)`!
+📌 
 
 ---
 
@@ -135,8 +136,14 @@ Click any animated project name to open:
 - **Location:** Tamil Nadu, India
   
 ---
+
+
 ![shafeeqahamedinfo GitHub stats](https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&theme=dark&show_icons=true&&hide=issues,contribs)
-![Shafeeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&show_icons=true&theme=tokyonight)
+
+---
+
+[![SHAFEEQQAHAMED M github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shafeeqahamedinfo&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/shafeeqahamedinfo/github-readme-activity-graph)
+
 
 
 ---
