@@ -44,12 +44,23 @@
 ## 💻 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+</p>
+---
+
+### 🛠️ IDE and Tools I Use
+<p align="center">
+  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
+<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Neocities_Logo.svg/250px-Neocities_Logo.svg.png"/>
 </p>
 
 ---
@@ -124,7 +135,7 @@ Click any animated project name to open:
 - **Location:** Tamil Nadu, India
   
 ---
-
+![shafeeqahamedinfo GitHub stats](https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&theme=dark&show_icons=true&&hide=issues,contribs)
 ![Shafeeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&show_icons=true&theme=tokyonight)
 
 
