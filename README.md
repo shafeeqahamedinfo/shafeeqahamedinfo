@@ -64,7 +64,7 @@
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Neocities_Logo.svg/250px-Neocities_Logo.svg.png"/>
 </p>
 
----
+ ---
 
 
 
@@ -109,9 +109,9 @@ Click any animated project name to open:
     <img src="https://img.shields.io/badge/-New%20Year%20Wish-bbbbbb?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
 </p>
+
 ---
 
-📌 
 
 ---
 
