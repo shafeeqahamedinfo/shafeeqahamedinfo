@@ -137,7 +137,6 @@ Click any animated project name to open:
   
 ---
 
-
 ![shafeeqahamedinfo GitHub stats](https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ---
@@ -147,7 +146,11 @@ Click any animated project name to open:
 
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shafeeqahamedinfo&theme=algolia&no-frame=false&no-bg=true&margin-w=15" />
+</p>
 
+---
 
 > ✨ This profile is styled with dark tones and animated banners, typing effects, and contribution visuals for an interactive experience.
 
