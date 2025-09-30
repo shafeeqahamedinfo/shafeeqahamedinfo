@@ -34,7 +34,7 @@
 
    </td>
     <td>
-      <img src="https://ik.imagekit.io/z5gkmj8bb/profile1.png?updatedAt=1750518703858" width="650" alt="developer animation">
+      <img src="https://ik.imagekit.io/z5gkmj8bb/profile1.png?updatedAt=1750518703858" width="450" alt="developer animation">
     </td>
   </tr>
 </table>
