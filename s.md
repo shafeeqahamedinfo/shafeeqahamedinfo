@@ -38,27 +38,64 @@
 
 ---
 
-### 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> About Me & Engineering Journey
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <h3>👋 Welcome to my GitHub Profile!</h3>
+    <td width="62%" valign="top">
       <p>
-        I'm a passionate <b>Web Developer</b> and <b>Computer Science Engineering student</b> with a unique interdisciplinary background in <b>Mechanical Engineering</b>. My transition from mechanical design to software development brings a distinctive problem-solving mindset, analytical rigor, and precision engineering to web design.
+        Hey there! I'm <b><span style="color:#FFD700">SHAFEEQAHAMED M</span></b>, a forward-thinking <b>Computer Science Engineering undergraduate</b> with a foundational diploma in <b>Mechanical Engineering</b>.
       </p>
-      <ul>
-        <li>🎓 <b>Diploma in Mechanical Engineering:</b> MRK Polytechnic College (2020–2023)</li>
-        <li>📚 <b>B.E. in Computer Science & Engineering:</b> Annamalai University (2024–2027)</li>
-        <li>🌐 <b>Role:</b> Student Developer & Aspiring Full-Stack Engineer</li>
-        <li>💻 <b>Core Tech:</b> HTML5, CSS3, JavaScript, Python, PHP, SQL, Bootstrap</li>
-        <li>🌱 <b>Currently Expanding:</b> Full-stack systems, cloud architectures, database design & modern web frameworks</li>
-        <li>📍 <b>Location:</b> Tamil Nadu, India</li>
-        <li>📫 <b>Get in Touch:</b> <a href="mailto:m.shafeeqahamed2004@gmail.com">m.shafeeqahamed2004@gmail.com</a></li>
-      </ul>
+      <p>
+        I bridge the gap between <i>physical engineering precision</i> and <i>modern digital software</i>. My mechanical design roots instill a deep discipline for modular architecture, structural performance, and attention to detail — which translates into building fast, scalable, and pixel-perfect web applications.
+      </p>
+      
+      <!-- Bento Info Grid -->
+      <table width="100%">
+        <tr>
+          <td width="50%">
+            <b>🎓 Education</b><br>
+            <sub>B.E. in CSE (2024–27) • Diploma in Mech (2020–23)</sub>
+          </td>
+          <td width="50%">
+            <b>🚀 Current Role</b><br>
+            <sub>Student Developer & Web Architect</sub>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>🌱 Exploring Deeply</b><br>
+            <sub>Full-Stack Frameworks, REST APIs & Cloud DBs</sub>
+          </td>
+          <td>
+            <b>📍 Based In</b><br>
+            <sub>Tamil Nadu, India 🇮🇳</sub>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <b>💡 Engineering Mindset</b><br>
+            <sub>Precision logic, clean code & fluid UX</sub>
+          </td>
+          <td>
+            <b>📫 Direct Email</b><br>
+            <sub><a href="mailto:m.shafeeqahamed2004@gmail.com">m.shafeeqahamed2004@gmail.com</a></sub>
+          </td>
+        </tr>
+      </table>
+
+      <br>
+
+      <p>
+        <img src="https://img.shields.io/badge/Open_For-Collaborations_&_Internships-1f6feb?style=flat-square&logo=gitbook&logoColor=white" alt="Open For" />
+        <img src="https://img.shields.io/badge/Mindset-Continuous_Improvement-238636?style=flat-square&logo=target&logoColor=white" alt="Mindset" />
+        <img src="https://img.shields.io/badge/Passion-UI/UX_&_Fast_Code-d29922?style=flat-square&logo=speedtest&logoColor=white" alt="Passion" />
+      </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://ik.imagekit.io/z5gkmj8bb/profile3.png?updatedAt=1750518528671" width="340" alt="Developer Animation" style="border-radius: 12px;"/>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://ik.imagekit.io/z5gkmj8bb/profile3.png?updatedAt=1750518528671" width="340" alt="Shafeeqahamed M Developer" style="border-radius: 16px; border: 1px solid #30363d;" />
+      <br><br>
+      <sub><i>⚡ "Engineering scalable experiences, line by line."</i></sub>
     </td>
   </tr>
 </table>
