@@ -3,30 +3,22 @@
   <!-- Dynamic Animated Hero Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,30&height=220&section=header&text=SHAFEEQAHAMED%20M&fontSize=42&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20B.E.%20CSE%20Undergrad%20%E2%80%A2%20Open%20Source%20Builder&descSize=17&descAlignY=58" width="100%" alt="Header Banner" />
 
-  <!-- Animated Typing Subtitle -->
+  <!-- Animated Typing Headline -->
   <a href="https://shafeeqahamedinfo.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=680&lines=console.log(%22Hello%2C+World!+%F0%9F%91%8B%22)%3B;Passionate+Full-Stack+Web+Developer+%F0%9F%92%BB;Mech+Design+Mindset+%E2%9E%9E+CSE+Software+Engineering+%F0%9F%8E%93;Crafting+Scalable%2C+Modern+%26+High-Performance+Web+Apps+%E2%9C%A8;Open+for+Collaborations+%26+Developer+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+SHAFEEQAHAMED+M;Aspiring+Full-Stack+Web+Developer+%F0%9F%92%BB;Diploma+in+Mech+%E2%9E%A1%EF%B8%8F+Pursuing+B.E.+in+CSE+%F0%9F%8E%93;Crafting+Modern%2C+Functional+%26+Creative+Websites+%E2%9C%A8;Open+for+Collaborations+%26+Tech+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>⚡ Architecting clean, modern web applications with engineering precision & passion ⚡</strong>
+    <strong>✨ Creating beautiful, functional websites and applications with passion and precision. ✨</strong>
   </p>
 
-  <!-- Pro Status Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Cloud-blueviolet?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
-    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="PRs Welcome" />
-    <img src="https://img.shields.io/badge/Code_Style-Clean%20%26%20Documented-orange?style=for-the-badge&logo=prettier&logoColor=white" alt="Clean Code" />
-  </p>
-
-  <!-- Quick Access Links & Social Bar -->
+  <!-- Quick Action Buttons / Navigation -->
   <p align="center">
     <a href="https://shafeeqahamedinfo.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
     </a>
     <a href="https://shafeeqahamedinfo.github.io/SHAFEEQAHAMED_M_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/📄_Resume.pdf-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+      <img src="https://img.shields.io/badge/📄_Download_Resume-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
     </a>
     <a href="https://www.linkedin.com/in/shafeeqahamed-m-40b72a309/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -46,43 +38,23 @@
 
 ---
 
-### 🖥️ Developer Terminal [System Specs]
-
-```zsh
-shafeeq@devbox:~$ fetch-profile --user=shafeeqahamedinfo
-╭─────────────────────────────────────────────────────────────────────────────╮
-│  Name           : SHAFEEQAHAMED M                                           │
-│  Role           : Student Developer & Full-Stack Engineer                   │
-│  Academics      : B.E. Computer Science & Engg @ Annamalai University       │
-│  Prior Degree   : Diploma in Mechanical Engg @ MRK Polytechnic College      │
-│  Location       : Tamil Nadu, India 🇮🇳                                      │
-│  Core Stack     : HTML5, CSS3, JavaScript, PHP, MySQL, Python, Bootstrap    │
-│  Cloud & DB     : Firebase, MongoDB, Cloud Storage                          │
-│  Git Philosophy : Conventional Commits, Semantic Branching & CI/CD          │
-│  Availability   : Open for Freelance, Projects & Engineering Roles 🚀       │
-╰─────────────────────────────────────────────────────────────────────────────╯
-```
-
----
-
-### 👨‍💻 About & Engineering Journey
+### 👨‍💻 About Me
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>👋 Welcome to my Workspace!</h3>
+      <h3>👋 Welcome to my GitHub Profile!</h3>
       <p>
-        I am a <b>Computer Science and Engineering undergraduate</b> with a foundational diploma in <b>Mechanical Engineering</b>. Transitioning from physical mechanics and CAD engineering into software architecture has endowed me with a rigorous approach to structure, efficiency, modular code design, and user-centric systems.
-      </p>
-      <p>
-        Currently developing robust web platforms, real-world inventory management solutions, and responsive web applications. I actively test ideas through code and participate in university symposium platforms and open-source explorations.
+        I'm a passionate <b>Web Developer</b> and <b>Computer Science Engineering student</b> with a unique interdisciplinary background in <b>Mechanical Engineering</b>. My transition from mechanical design to software development brings a distinctive problem-solving mindset, analytical rigor, and precision engineering to web design.
       </p>
       <ul>
-        <li>🎓 <b>B.E. Computer Science and Engineering</b> — Annamalai University (2024–2027)</li>
-        <li>⚙️ <b>Diploma in Mechanical Engineering</b> — MRK Polytechnic College (2020–2023)</li>
-        <li>🌱 <b>Current Deep Dives:</b> Advanced Full-Stack Architecture, REST APIs & Distributed Systems</li>
-        <li>💡 <b>Interests:</b> Full-Stack Web Development, System Performance, UI/UX Micro-Interactions</li>
-        <li>📫 <b>Contact:</b> <a href="mailto:m.shafeeqahamed2004@gmail.com">m.shafeeqahamed2004@gmail.com</a></li>
+        <li>🎓 <b>Diploma in Mechanical Engineering:</b> MRK Polytechnic College (2020–2023)</li>
+        <li>📚 <b>B.E. in Computer Science & Engineering:</b> Annamalai University (2024–2027)</li>
+        <li>🌐 <b>Role:</b> Student Developer & Aspiring Full-Stack Engineer</li>
+        <li>💻 <b>Core Tech:</b> HTML5, CSS3, JavaScript, Python, PHP, SQL, Bootstrap</li>
+        <li>🌱 <b>Currently Expanding:</b> Full-stack systems, cloud architectures, database design & modern web frameworks</li>
+        <li>📍 <b>Location:</b> Tamil Nadu, India</li>
+        <li>📫 <b>Get in Touch:</b> <a href="mailto:m.shafeeqahamed2004@gmail.com">m.shafeeqahamed2004@gmail.com</a></li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -93,7 +65,7 @@ shafeeq@devbox:~$ fetch-profile --user=shafeeqahamedinfo
 
 ---
 
-### 🎓 Academic & Education Roadmap
+### 🎓 Education & Journey
 
 <table>
   <tr>
@@ -104,13 +76,13 @@ shafeeq@devbox:~$ fetch-profile --user=shafeeqahamedinfo
       <h4>🏛️ B.E. Computer Science and Engineering (2024 – 2027)</h4>
       <p>
         <b>Annamalai University</b><br>
-        <i>Key Focus:</i> Software Engineering Methodologies, Relational & NoSQL Databases, Web Architecture, Data Structures, Algorithms & Cloud Technologies.
+        <i>Focus:</i> Software Engineering, Web Development, Relational Databases, Data Structures & Cloud Technologies. Actively participating in national technical symposiums and university tech initiatives.
       </p>
       <br>
       <h4>⚙️ Diploma in Mechanical Engineering (2020 – 2023)</h4>
       <p>
         <b>MRK Polytechnic College</b><br>
-        <i>Key Focus:</i> Engineering Physics, Precision Design, Manufacturing Systems & Analytical Problem Solving.
+        <i>Focus:</i> Engineering Fundamentals, Manufacturing, CAD/Design Thinking & Problem Solving. Built strong logical fundamentals that fuel my software architecture perspective.
       </p>
     </td>
   </tr>
@@ -118,18 +90,18 @@ shafeeq@devbox:~$ fetch-profile --user=shafeeqahamedinfo
 
 ---
 
-### 💻 Tech Arsenal & Skill Ecosystem
+### 💻 Technical Stack & Skills
 
 <div align="center">
 
-  <!-- Primary Stack Badges via SkillIcons -->
+  <!-- Icons from skillicons -->
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,mysql,mongodb,firebase,nodejs,react,git,github,vscode" alt="Tech Stack Icons" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,mysql,mongodb,firebase,nodejs,react,git,github,vscode" alt="My Tech Stack" />
     </a>
   </p>
 
-  <!-- High-Res Interactive Logos -->
+  <!-- Detailed Icon badges -->
   <p>
     <img height="48" width="48" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" />
     <img height="48" width="48" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" />
@@ -146,191 +118,112 @@ shafeeq@devbox:~$ fetch-profile --user=shafeeqahamedinfo
 
 </div>
 
-#### 📊 Language & Skill Proficiency
+#### 📊 Skill Proficiency
 
 ```text
-HTML5               [████████████████████░░░░░]  90%  | Semantic HTML5, Accessibility, SEO
-Git & GitHub        [████████████████░░░░░░░░░]  80%  | Branching, PRs, Version Control, Workflows
-CSS3 / Responsive   [███████████████░░░░░░░░░░]  75%  | Flexbox, CSS Grid, Modern Aesthetics, UI/UX
-Python              [██████████████░░░░░░░░░░░]  70%  | Scripting, Automation, Algorithms
-Bootstrap 5         [██████████████░░░░░░░░░░░]  70%  | Rapid Responsive Layouts & Components
-PHP (Backend)       [██████████████░░░░░░░░░░░]  70%  | Server-side Scripts, Forms, API Integration
-JavaScript (ES6+)   [████████████░░░░░░░░░░░░░]  60%  | DOM Manipulation, Async/Await, Web APIs
-MySQL / Database    [████████████░░░░░░░░░░░░░]  60%  | Relational Schemas, Queries, Indexing
-SQL (Fundamentals)  [██████████░░░░░░░░░░░░░░░]  50%  | CRUD Operations, Joins & Aggregations
+HTML5           ████████████████████░░░░░  90%
+Git & GitHub    ████████████████░░░░░░░░░  80%
+CSS3            ███████████████░░░░░░░░░░  75%
+Python          ██████████████░░░░░░░░░░░  70%
+Bootstrap       ██████████████░░░░░░░░░░░  70%
+PHP             ██████████████░░░░░░░░░░░  70%
+JavaScript      ████████████░░░░░░░░░░░░░  60%
+MySQL           ████████████░░░░░░░░░░░░░  60%
+SQL             ██████████░░░░░░░░░░░░░░░  50%
 ```
 
 ---
 
-### 🛠️ Pro Git, DevOps & Engineering Tooling
+### 🛠️ IDEs, Platforms & Tools
 
-<div align="center">
-
-  <table align="center">
-    <tr>
-      <td align="center"><b>Version Control</b></td>
-      <td align="center"><b>IDE & Code Editors</b></td>
-      <td align="center"><b>Hosting & Deployment</b></td>
-      <td align="center"><b>Operating System & Shell</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Neocities-E84C3D?style=flat-square&logo=firefox-browser&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<details>
-<summary><b>⚡ Click to View Git & Code Standards Followed</b></summary>
-
-```markdown
-- 🌿 Git-Flow: feature/xyz, bugfix/xyz, release/vX.X.X
-- 📝 Semantic Commits:
-  - feat: ✨ add new feature
-  - fix: 🐛 resolve bug or issue
-  - docs: 📚 documentation updates
-  - refactor: ♻️ code cleanup without logic change
-  - style: 💄 UI/UX formatting and cosmetics
-- 🔒 Security: No hardcoded credentials (.env & .gitignore best practices)
-- 🚀 Clean, DRY & Well-Documented codebases
-```
-</details>
+<p align="center">
+  <img height="45" width="45" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
+  &nbsp;&nbsp;
+  <img height="45" width="45" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" title="PyCharm"/>
+  &nbsp;&nbsp;
+  <img height="45" width="45" src="https://img.icons8.com/color/50/000000/git.png" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  &nbsp;&nbsp;
+  <img height="45" src="https://img.shields.io/badge/Neocities-E84C3D?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Neocities"/>
+</p>
 
 ---
 
-### 🚀 Production & Featured Web Applications
+### 🌟 Featured Web Projects & Systems
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Overview</th>
-      <th>Key Stack</th>
-      <th align="center">Deployment</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🎓 COMPSEM '26</b></td>
-      <td>Full university symposium management platform handling attendee registrations, schedule tracking, and team coordinates.</td>
-      <td><code>HTML5</code> <code>CSS3</code> <code>JS</code> <code>PHP</code> <code>MySQL</code></td>
-      <td align="center"><a href="https://shafeeqahamedinfo.github.io/project.html?id=4"><b>🔗 Launch</b></a></td>
-    </tr>
-    <tr>
-      <td><b>📦 Warehouse Management</b></td>
-      <td>Enterprise-style product inventory and warehouse logistics software for tracking stock flow, thresholds, and records.</td>
-      <td><code>Web Stack</code> <code>Database</code> <code>SQL</code></td>
-      <td align="center"><a href="https://shafeeqahamedinfo.github.io/project.html?id=5"><b>🔗 Launch</b></a></td>
-    </tr>
-    <tr>
-      <td><b>🧾 Billing & Invoice System</b></td>
-      <td>Automated GST billing, client statement generation, and real-time inventory deduction engine.</td>
-      <td><code>Full Stack</code> <code>SQL Engine</code></td>
-      <td align="center"><a href="https://shafeeqahamedinfo.github.io/project.html?id=3"><b>🔗 Launch</b></a></td>
-    </tr>
-    <tr>
-      <td><b>☁️ Cloud Store System</b></td>
-      <td>Cloud-based file management, digital asset storage, and organized multi-tier access platform.</td>
-      <td><code>Cloud Tech</code> <code>Web App</code></td>
-      <td align="center"><a href="https://shafeeqahamedinfo.github.io/project.html?id=1"><b>🔗 Launch</b></a></td>
-    </tr>
-    <tr>
-      <td><b>👥 Social Media Hub</b></td>
-      <td>Social networking interactive web app featuring user profiles, dynamic timelines, and community feeds.</td>
-      <td><code>JavaScript</code> <code>PHP</code> <code>Database</code></td>
-      <td align="center"><a href="https://shafeeqahamedinfo.github.io/project.html?id=2"><b>🔗 Launch</b></a></td>
-    </tr>
-    <tr>
-      <td><b>👟 E-Commerce Shoe Store</b></td>
-      <td>Modern online footwear retail store featuring dynamic catalog rendering, cart actions, and sleek UI.</td>
-      <td><code>HTML5</code> <code>CSS3</code> <code>JS</code></td>
-      <td align="center"><a href="https://shafeeqahamedinfo.github.io/project.html?id=6"><b>🔗 Launch</b></a></td>
-    </tr>
-  </tbody>
-</table>
+| Project | Description | Tech Stack | Live Demo |
+| :--- | :--- | :--- | :---: |
+| 🎓 **COMPSEM '26** | University Symposium Management Platform with registrations, event schedules & team coordination | `HTML` `CSS` `JS` `PHP` `MySQL` | [🔗 View Details](https://shafeeqahamedinfo.github.io/project.html?id=4) |
+| 📦 **Warehouse Management** | Efficient management solution for products, stock tracking, and inventory logs | `Web Stack` `Database` `SQL` | [🔗 View Details](https://shafeeqahamedinfo.github.io/project.html?id=5) |
+| 🧾 **Billing Software** | Comprehensive GST billing system with automated invoices and real-time inventory updates | `Web Application` `SQL` | [🔗 View Details](https://shafeeqahamedinfo.github.io/project.html?id=3) |
+| ☁️ **Cloud Store** | Modern cloud storage and file management platform for secure digital asset handling | `Frontend` `Backend` `Cloud` | [🔗 View Details](https://shafeeqahamedinfo.github.io/project.html?id=1) |
+| 👥 **Social Media Hub** | Dynamic social networking web platform with feeds, interactions, and profile pages | `JavaScript` `PHP` `DB` | [🔗 View Details](https://shafeeqahamedinfo.github.io/project.html?id=2) |
+| 👟 **Shoe Store** | Interactive e-commerce platform for shoe sales with showcase and modern shopping UI | `HTML5` `CSS3` `JS` | [🔗 View Details](https://shafeeqahamedinfo.github.io/project.html?id=6) |
 
 ---
 
-### 🕹️ Interactive Web Arcade & Mini-Projects (Neocities Hub)
+### 🎮 Interactive Games & Web Tools (Neocities Collection)
 
-Explore live interactive builds directly in your browser:
+Click any badge below to launch the live interactive app directly:
 
 <p align="center">
   <a href="https://recyclezone.neocities.org/Loan%20calculator/" target="_blank">
-    <img src="https://img.shields.io/badge/💰-Loan%20Calculator-0D1117?style=for-the-badge&logo=Google-Chrome&logoColor=58A6FF" alt="Loan Calculator" />
+    <img src="https://img.shields.io/badge/💰-Loan%20Calculator-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Loan Calculator" />
   </a>
   <a href="https://recyclezone.neocities.org/BOX/" target="_blank">
-    <img src="https://img.shields.io/badge/📦-Box%20Simulator-161B22?style=for-the-badge&logo=Google-Chrome&logoColor=58A6FF" alt="Box" />
+    <img src="https://img.shields.io/badge/📦-Box-111111?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Box" />
   </a>
   <a href="https://recyclezone.neocities.org/Calculator/inex" target="_blank">
-    <img src="https://img.shields.io/badge/🧮-Web%20Calculator-21262D?style=for-the-badge&logo=Google-Chrome&logoColor=58A6FF" alt="Calculator" />
+    <img src="https://img.shields.io/badge/🧮-Calculator-222222?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Calculator" />
   </a>
   <a href="https://recyclezone.neocities.org/Drawing%20App/" target="_blank">
-    <img src="https://img.shields.io/badge/🎨-Drawing%20Canvas-30363D?style=for-the-badge&logo=Google-Chrome&logoColor=58A6FF" alt="Drawing App" />
+    <img src="https://img.shields.io/badge/🎨-Drawing%20App-333333?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Drawing App" />
   </a>
   <a href="https://recyclezone.neocities.org/GAMER%2001/" target="_blank">
-    <img src="https://img.shields.io/badge/🟩-Square%20Game-0D1117?style=for-the-badge&logo=Google-Chrome&logoColor=3FB950" alt="Square Game" />
+    <img src="https://img.shields.io/badge/🟩-Square%20Game-444444?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Square Game" />
   </a>
   <a href="https://recyclezone.neocities.org/GAMER%2004/Rock%20Paper%20Scissors%20Game" target="_blank">
-    <img src="https://img.shields.io/badge/✂️-Rock%20Paper%20Scissors-161B22?style=for-the-badge&logo=Google-Chrome&logoColor=3FB950" alt="Rock Paper Scissors" />
+    <img src="https://img.shields.io/badge/✂️-Rock%20Paper%20Scissors-555555?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Rock Paper Scissors" />
   </a>
   <a href="https://recyclezone.neocities.org/GAMER%2005/Tic%20Tac%20Toe.HTML" target="_blank">
-    <img src="https://img.shields.io/badge/⭕-Tic%20Tac%20Toe-21262D?style=for-the-badge&logo=Google-Chrome&logoColor=3FB950" alt="Tic Tac Toe" />
+    <img src="https://img.shields.io/badge/⭕-Tic%20Tac%20Toe-666666?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Tic Tac Toe" />
   </a>
   <a href="https://recyclezone.neocities.org/GAMER%2006/INDEX" target="_blank">
-    <img src="https://img.shields.io/badge/🃏-Memory%20Pairs-30363D?style=for-the-badge&logo=Google-Chrome&logoColor=3FB950" alt="Pairs Game" />
+    <img src="https://img.shields.io/badge/🃏-Pairs%20Game-777777?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Pairs Game" />
   </a>
   <a href="https://recyclezone.neocities.org/LoveProject-master/" target="_blank">
-    <img src="https://img.shields.io/badge/💖-Love%20Project-0D1117?style=for-the-badge&logo=Google-Chrome&logoColor=F778BA" alt="LoveProject" />
+    <img src="https://img.shields.io/badge/💖-LoveProject-888888?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="LoveProject" />
   </a>
   <a href="https://recyclezone.neocities.org/car/" target="_blank">
-    <img src="https://img.shields.io/badge/🏎️-Car%20Racer%202D-161B22?style=for-the-badge&logo=Google-Chrome&logoColor=F778BA" alt="Car Game" />
+    <img src="https://img.shields.io/badge/🏎️-Car%20Game-999999?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Car Game" />
   </a>
   <a href="https://recyclezone.neocities.org/project%204%20ok/MY%20SHOE.HTML" target="_blank">
-    <img src="https://img.shields.io/badge/👟-Shoe%20Storefront-21262D?style=for-the-badge&logo=Google-Chrome&logoColor=F778BA" alt="Shoe Shop" />
+    <img src="https://img.shields.io/badge/👟-Shoe%20Shop-aaaaaa?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Shoe Shop" />
   </a>
   <a href="https://recyclezone.neocities.org/project%206%20ok/" target="_blank">
-    <img src="https://img.shields.io/badge/🎆-New%20Year%20Greeting-30363D?style=for-the-badge&logo=Google-Chrome&logoColor=F778BA" alt="New Year Wish" />
+    <img src="https://img.shields.io/badge/🎆-New%20Year%20Wish-bbbbbb?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="New Year Wish" />
   </a>
 </p>
 
 ---
 
-### 📜 Verified Certifications & Credentials
+### 📜 Certifications & Credentials
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <h4>🌐 Social Networks</h4>
-      <p><b>National Programme on Technology Enhanced Learning (NPTEL / IIT)</b></p>
+      <p><b>Issuer:</b> NPTEL / IIT</p>
       <a href="https://shafeeqahamedinfo.github.io/certificate.html?id=2" target="_blank">
-        <img src="https://img.shields.io/badge/NPTEL-Verify_Certificate-005691?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Social Networks" />
+        <img src="https://img.shields.io/badge/Verify-NPTEL_Certificate-4B9CD3?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Social Networks" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="50%">
       <h4>☁️ Cloud Computing</h4>
-      <p><b>National Programme on Technology Enhanced Learning (NPTEL / IIT)</b></p>
+      <p><b>Issuer:</b> NPTEL / IIT</p>
       <a href="https://shafeeqahamedinfo.github.io/certificate.html?id=1" target="_blank">
-        <img src="https://img.shields.io/badge/NPTEL-Verify_Certificate-005691?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Cloud Computing" />
+        <img src="https://img.shields.io/badge/Verify-NPTEL_Certificate-4B9CD3?style=for-the-badge&logo=academia&logoColor=white" alt="NPTEL Cloud Computing" />
       </a>
     </td>
   </tr>
@@ -338,45 +231,30 @@ Explore live interactive builds directly in your browser:
 
 ---
 
-### 🐍 GitHub Contribution Stream & Snake Eater
+### 📈 GitHub Analytics & Stats
 
 <div align="center">
 
-  <!-- Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shafeeqahamedinfo/shafeeqahamedinfo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shafeeqahamedinfo/shafeeqahamedinfo/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shafeeqahamedinfo/shafeeqahamedinfo/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-
-</div>
-
----
-
-### 📈 Real-Time GitHub Analytics & Metrics
-
-<div align="center">
-
-  <!-- Profile Trophy Showcase -->
+  <!-- GitHub Trophy -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=shafeeqahamedinfo&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shafeeqahamedinfo&theme=algolia&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </p>
 
-  <!-- GitHub Stats & Top Languages Side-by-Side -->
+  <!-- GitHub Stats & Top Languages -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=shafeeqahamedinfo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Shafeeq's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafeeqahamedinfo&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
   </p>
 
-  <!-- GitHub Streak Card -->
+  <!-- GitHub Streak Stats -->
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafeeqahamedinfo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </p>
 
-  <!-- Interactive Activity Graph -->
+  <!-- Activity Graph -->
   <p>
     <a href="https://github.com/shafeeqahamedinfo/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafeeqahamedinfo&bg_color=0D1117&color=58A6FF&line=51f565&point=ffffff&area=true&hide_border=true" alt="Shafeeq's Activity Graph" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafeeqahamedinfo&bg_color=0D1117&color=58A6FF&line=51f565&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
     </a>
   </p>
 
@@ -384,12 +262,12 @@ Explore live interactive builds directly in your browser:
 
 ---
 
-### 📫 Let's Collaborate & Build Something Great
+### 📫 Let's Connect & Work Together
 
 <div align="center">
 
   <p>
-    I am actively looking for software engineering roles, open-source collaborations, and freelance opportunities.
+    Have a project in mind, a query, or looking to collaborate? Feel free to reach out!
   </p>
 
   <p>
@@ -397,21 +275,21 @@ Explore live interactive builds directly in your browser:
       <img src="https://img.shields.io/badge/Email-m.shafeeqahamed2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="tel:+918489481039">
-      <img src="https://img.shields.io/badge/Phone-+91_8489481039-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Phone" />
+      <img src="https://img.shields.io/badge/Phone-+91_8489481039-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
     </a>
     <a href="https://www.linkedin.com/in/shafeeqahamed-m-40b72a309/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Shafeeqahamed_M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/shafeeqahamedinfo?igsi=NGs3NzJpMG55OXl6" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-@shafeeqahamedinfo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-shafeeqahamedinfo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://shafeeqahamedinfo.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-shafeeqahamedinfo.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-shafeeqahamedinfo.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
   <p>
-    📍 <b>Location:</b> Tamil Nadu, India | 🌐 <b>Remote / Onsite:</b> Open Worldwide
+    📍 <b>Location:</b> Tamil Nadu, India
   </p>
 
   <br>
@@ -421,7 +299,7 @@ Explore live interactive builds directly in your browser:
     <img src="https://komarev.com/ghpvc/?username=shafeeqahamedinfo&style=flat-square&color=yellow&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
-  <!-- Dynamic Waving Footer -->
+  <!-- Footer Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,30&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
